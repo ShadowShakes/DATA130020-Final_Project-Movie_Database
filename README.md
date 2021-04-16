@@ -1,3 +1,4 @@
+# DATA130020-Movie_Database
 This project is the final project of class "Database and Implementation" in School of Data Science, Fudan University (2020 Spring). 
 
 The project makes a movie database with data collected from internet after some modifications (completed by Zhongyang Wang). And it is finished by Shaohan Chen, Yuxuan Zhao, Yuanzhu Zhan, Zhongyang Wang.
